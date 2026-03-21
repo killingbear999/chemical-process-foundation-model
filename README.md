@@ -60,6 +60,8 @@ If you find our work relevant to your research, please cite:
   title={Towards foundation model for chemical reactor modeling: Meta-learning with physics-informed adaptation},
   author={Wang, Zihao and Wu, Zhe},
   journal={Chemical Engineering Research and Design},
+  volume={218},
+  pages={839--853},
   year={2025},
   publisher={Elsevier}
 }
